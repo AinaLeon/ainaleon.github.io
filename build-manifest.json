@@ -1,0 +1,67 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/29Hf16Z0WYOWjVE0-86_W/_buildManifest.js",
+    "static/29Hf16Z0WYOWjVE0-86_W/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-e7a7892cb0edc024.js",
+      "static/chunks/pages/index-f059acd26f140751.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-e7a7892cb0edc024.js",
+      "static/css/682bcc6431afb245.css",
+      "static/chunks/pages/_app-42e9b95679fd0061.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-e7a7892cb0edc024.js",
+      "static/chunks/pages/_error-e4f561a102d9bb14.js"
+    ],
+    "/acceuil": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-e7a7892cb0edc024.js",
+      "static/chunks/78e521c3-9f6c4378894a26d0.js",
+      "static/chunks/pages/acceuil-0ca07a738aa76974.js"
+    ],
+    "/component/navbar": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-e7a7892cb0edc024.js",
+      "static/chunks/pages/component/navbar-734f29f2b6996804.js"
+    ],
+    "/contact": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-e7a7892cb0edc024.js",
+      "static/chunks/d0447323-d1e3c61cdfaf7a1e.js",
+      "static/chunks/1bfc9850-9e8750bd7f030d0d.js",
+      "static/chunks/pages/contact-75edd6886c6db3dd.js"
+    ],
+    "/exemple": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-e7a7892cb0edc024.js",
+      "static/chunks/pages/exemple-21c21e159859fcf3.js"
+    ],
+    "/services": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-7751730b10fa0f74.js",
+      "static/chunks/main-e7a7892cb0edc024.js",
+      "static/chunks/pages/services-06a912aef4fb5c6f.js"
+    ]
+  },
+  "ampFirstPages": []
+}
